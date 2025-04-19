@@ -1,4 +1,4 @@
-I think widespread casual financial recommendations are a symptom of a societal gambling addiction illness which should be treated with paracetamol and driving our society towards well-researched, meaningful and sustainable progress.   
+I think widespread casual financial recommendations are a symptom of a societal gambling addiction illness which should be treated by driving our society towards well-researched, meaningful and sustainable progress.   
 
 - **Context and Issue**
   - Casual financial recommendations are widespread and confidently presented.
