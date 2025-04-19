@@ -40,7 +40,7 @@
             justify-content: center;
         }
         #modal-content {
-            max-height: 85vh;
+            max-height: 65vh;
             overflow-y: auto;
         }
         /* Basic styling for rendered Markdown content */
@@ -56,6 +56,20 @@
         .markdown-body ul, .markdown-body ol { margin-left: 1.5em; margin-bottom: 1em; }
         .markdown-body li { margin-bottom: 0.5em; }
         .markdown-body blockquote { border-left: 4px solid #d1d5db; padding-left: 1em; color: #6b7280; margin-left: 0; margin-bottom: 1em; }
+         .markdown-body ul, .markdown-body ol {
+            margin-left: 1.5em; /* Indentation */
+            margin-bottom: 1em;
+            padding-left: 1.25em; /* Add padding for the bullets/numbers */
+        }
+        .markdown-body ul {
+            list-style-type: disc;
+        }
+        .markdown-body ol {
+            list-style-type: decimal;
+        }
+        .markdown-body li {
+             margin-bottom: 0.5em;
+        }
 
         /* Styling for project lists */
         .project-list {
@@ -86,7 +100,7 @@ categories:
   - id: game
     title: 🎮 Games
   - id: opinion
-    title: ✍️ Opinion Pieces
+    title: ✍️ Thoughts
 
 # List of projects
 # - title: Display name of the project/article
@@ -123,15 +137,6 @@ projects:
     url: opinions/casual-financial-advice.md # IMPORTANT: Create this file in an 'opinions' folder
     type: markdown
     category: opinion
-
-  # --- Add more projects here, assigning the correct 'category' id ---
-  # - title: Another Tool
-  #   description: Description...
-  #   url: https://your-username.github.io/another-tool/
-  #   type: link
-  #   category: tool
-  #   tags: [Tag1, Tag2]
-  #   icon: "🔧"
 
     </script>
 
