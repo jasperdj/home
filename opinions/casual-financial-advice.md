@@ -1,4 +1,4 @@
-I think widespread casual financial recommendations are a symptom of a societal gambling addiction illness which should be treated by driving our society towards well-researched, meaningful and sustainable progress.   
+I think that the increasing occurance of casual financial recommendations (in person and on social media) could be seen as a cause/consequence of increasing societal gambling habits, where the lines between informed investing and speculative betting are increasingly blurred.
 
 - **Context and Issue**
   - Casual financial recommendations are widespread and confidently presented.
